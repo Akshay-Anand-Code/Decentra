@@ -1,1 +1,1 @@
-# Decentra
+# Decentralized Skill Verification System
